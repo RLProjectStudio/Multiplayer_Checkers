@@ -1,4 +1,4 @@
-# Multiplayer_Checkers
+# Multiplayer Checkers
 
 ## Introduction
 
